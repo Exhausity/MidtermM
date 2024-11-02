@@ -32,7 +32,12 @@ Task 6️⃣: Delete branches “two” and “three” after merging them with 
 Task 7️⃣: Describe what tasks were completed, what screenshots correspond to them in the file readme.md and in general, the instructions for checking your work.
 
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
- 
+
+
+task 1: я обозначил номера тасков те которые я сделал, в первом задании я сделал ветку студент_нейм и создал там три коммита с названием о
+task 2: соеденилветку два с веткой три и сделал ребейс к ветке один, на графе показано
+task 4: создал ветку div_feature и добавил туда один коммит о
+task 6: случайно сделал ребейс первой и второй ветки вместо второй и третьей, но остальные условия выполнил
 
 
 
