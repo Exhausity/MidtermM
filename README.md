@@ -26,4 +26,4 @@ Task 2️⃣: Recreate the graph as in the picture. Leave a link to the reposito
 Task 3️⃣: Rebase branch two to branch one and merge three to one. Show the process in screenshots
 
 Task 4️⃣: Answer the question in commit question.
-asas
+asasas
